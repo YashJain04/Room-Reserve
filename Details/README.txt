@@ -1,7 +1,7 @@
 READ ME File
 
--> Student Details
-Yash Jain - 300245571
+-> Owner
+Yash Jain
 
 -> Files Submission
 - cancelRoom.php
@@ -31,7 +31,7 @@ Yash Jain - 300245571
 - These files are .sql and/or .txt files and can be opened up using any text editor
 - manually created DDL for SQL database which is used to set up the database 
 
--> ERD Database.pgerd: An updated ERD Diagram for the databases project
+-> ERD Database.pgerd: An updated ERD Diagram for the databases
 - This file can be opened up using PG Admin
 
--> Report: The report for the databases project.
+-> Report: The overall report + documentation.
